@@ -3,7 +3,7 @@ import requests
 
 # --- Config ---
 st.set_page_config(page_title="Vending Machine Chatbot", layout="centered")
-HF_TOKEN = "YOUR_HF_API_TOKEN"  # Replace this securely
+HF_TOKEN = "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"  # Replace this securely
 
 HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"}
 
